@@ -1,0 +1,15 @@
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\bin\Debug\net9.0\Algoritimo.exe
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\bin\Debug\net9.0\Algoritimo.deps.json
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\bin\Debug\net9.0\Algoritimo.runtimeconfig.json
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\bin\Debug\net9.0\Algoritimo.dll
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\bin\Debug\net9.0\Algoritimo.pdb
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.AssemblyInfoInputs.cache
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.AssemblyInfo.cs
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.csproj.CoreCompileInputs.cache
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.sourcelink.json
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.dll
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\refint\Algoritimo.dll
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.pdb
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\Algoritimo.genruntimeconfig.cache
+C:\Users\rufou\Documents\GitHub\AlgoritimoA-\Algoritimo\obj\Debug\net9.0\ref\Algoritimo.dll
