@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
 string[,] matriz = new string[5,5];
 
 for(int i = 0; i < matriz.GetLength(0); i++)
@@ -11,4 +12,5 @@ for(int i = 0; i < matriz.GetLength(0); i++)
     }
     Console.WriteLine("\n");
 }
+
 
