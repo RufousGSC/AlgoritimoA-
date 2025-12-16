@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritimo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93993eab2d352a4dccaa430dc722daa7ec812fe3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bf055b2b06bd19d178ce3d6ccb12fe36d6de79b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritimo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritimo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
